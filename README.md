@@ -1,2 +1,2 @@
 # hello-world
-about gesture recognition
+learn about gesture recognition
